@@ -1,0 +1,223 @@
+.marketplace {
+  background-color: #f0f2f5;
+  height: auto;
+}
+.img-table {
+  width: 100px;
+  height: 100px;
+  border-radius: 10px;
+}
+.action-table:hover {
+  cursor: pointer;
+  color: blue;
+}
+
+.alert-message {
+  margin: 0px 20px;
+}
+.btn-at-rgt {
+  position: absolute;
+  right: 0;
+}
+.adjust-upload {
+  margin-left: 72px;
+}
+
+.sider-container {
+  position: relative;
+  background-color: var(--bg-primary);
+  height: 100vh;
+
+}
+
+.siderStyle {
+  text-align: "center";
+  height: 100vh;
+
+}
+
+.siderStyle .actions > button {
+  width: 100%;
+  color: #005fc6;
+  background: #e1efff;
+  border-radius: 10px;
+}
+
+.siderStyle .actions > button:hover {
+  color: #005fc6 !important;
+  background-color: #f0f2f5 !important;
+}
+
+.content {
+  padding: 0px 15px;
+  margin: 0;
+  
+}
+
+.content .ant-input-search {
+  margin-bottom: 20px;
+}
+
+.content ul.menu {
+  list-style: none;
+  width: 100%;
+  margin-bottom: 20px;
+}
+.content ul.menu li {
+  width: 100%;
+  padding: 5px 0px;
+  border-radius: 10px;
+  font-size: 20px;
+  margin-bottom: 5px;
+}
+.content ul.menu li:hover {
+  cursor: pointer;
+  background-color: #f0f2f5;
+}
+.content ul.menu li span.title {
+  padding-left: 15px;
+  font-weight: 500;
+  position: relative;
+  top: -10px;
+}
+.custom-active {
+  background-color: #f0f2f5;
+  columns: #000;
+}
+.contentStyle {
+  text-align: "center";
+  background-color: #f0f2f5;
+  height: auto;
+}
+.row {
+  margin-top: 12px;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: nowrap;
+  align-content: center;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.browse-page .row {
+  margin-top: 30px;
+  margin-left: 15px;
+}
+.grid {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  align-content: center;
+  justify-content: flex-start;
+  align-items: center;
+  margin-left: 15px;
+}
+
+.card {
+  height: 328px;
+  width: 25% !important;
+  background: #fff;
+  padding: 5px;
+  padding-left: 0px;
+  border-radius: 8px;
+  cursor: pointer;
+  padding-top: 0px;
+  padding-right: 0px;
+  margin-right: 20px;
+  margin-top: 20px;
+}
+
+.card > img {
+  width: 100%;
+  height: 240px;
+  object-fit: initial;
+  border-radius: 5px 5px 0px 0px;
+  /* border: 1px solid rgba(0, 0, 0,0.1); */
+  margin-bottom: 3px;
+  padding-left: 0px;
+  margin-left: 0px;
+}
+
+.card > section {
+  padding: 0px 5px;
+}
+.card > section > h3 {
+  padding: 2px 0px;
+}
+.card > section > p.price {
+  padding: 2px 0px;
+}
+
+.card > .location {
+  font-size: 12px;
+  color: grey;
+}
+
+.view-list-modal {
+  width: 100%;
+  height: 70vh;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: nowrap;
+  align-content: center;
+  justify-content: flex-start;
+  align-items: flex-start;
+}
+
+.view-list-modal .left {
+  width: 60%;
+  background: red;
+  height: 70vh;
+}
+
+.view-list-modal .left > img {
+  width: 100%;
+  height: 70vh;
+}
+.view-list-modal .right {
+  width: 40%;
+}
+.view-list-modal .right .content {
+  height: 62vh;
+  overflow-y: auto;
+}
+
+.view-list-modal .right .action {
+  margin-left: 12px;
+  margin-right: 12px;
+}
+
+.preview {
+  background: rgba(0, 0, 0, 0.4);
+}
+
+.preview .preview-body .delete-icon {
+  position: absolute;
+  right: 28px;
+  font-size: 20px;
+  color: red;
+}
+.preview .preview-body > img {
+  width: 45%;
+  object-fit: contain;
+  margin: 0 auto;
+  display: block;
+}
+
+.notification-card {
+  width: auto;
+  margin: 0 auto;
+  margin: 0px 20px;
+  position: relative;
+  top: 30px;
+}
+.iconBox {
+  width: 35px;
+  height: 35px;
+}
+.iconBox > img {
+  width: 35px;
+  height: 35px;
+  position: relative;
+  top: -2px;
+}
