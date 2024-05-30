@@ -1,0 +1,37 @@
+/* Status Chip Container */
+.status-chip {
+  display: inline-block;
+  padding: 4px 8px;
+  border-radius: 16px;
+  font-size: 14px;
+  font-weight: bold;
+  text-transform: uppercase;
+  letter-spacing: 1px;
+  margin-right: 8px;
+}
+
+/* Styles for "Listed" status */
+.status-listed {
+  background-color: #2ecc71;
+  color: #ffffff;
+}
+
+/* Styles for "Sold" status */
+.status-sold {
+  background-color: #e74c3c;
+  color: #ffffff;
+}
+
+/* Styles for "Review" status */
+.status-review {
+  background-color: #3498db;
+  color: #ffffff;
+}
+
+/* Apply the ellipsis effect to the element */
+.ellipsis-text {
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  width: 100px; /* Adjust this value to control the number of visible characters */
+}
