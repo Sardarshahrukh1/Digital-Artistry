@@ -1,0 +1,38 @@
+.header {
+  background: #fff;
+  padding: 0;
+  display: flex;
+  justify-content: flex-end;
+  align-items: center;
+}
+
+.logout-button {
+  margin-right: 24px;
+  cursor: pointer;
+}
+
+.logo {
+  height: 32px;
+  margin: 16px;
+}
+.logo h6 {
+  color: #fff;
+  font-size: 22px;
+  text-align: left;
+}
+
+.site-layout-background {
+  background: #fff;
+}
+
+@media screen and (min-width: 997px) {
+  .header {
+    width: calc(100% - 200px);
+  }
+}
+
+@media screen and (max-width: 768px) {
+  .logout-button {
+    margin-right: 12px;
+  }
+}
