@@ -19,4 +19,4 @@ MongoDB (Make sure MongoDB is running locally)
 **After these steps, you should have two initialized node projects, one for the Backend and one for the Frontend**
 • Enter command in the Teminal npm run
 • Open your web browser and navigate to 
-</br> **http://localhost:3000.**
+</br> **http://localhost:3000**
