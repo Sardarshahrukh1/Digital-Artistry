@@ -3,6 +3,7 @@
 Social network and marketplace for artists and art enthusiasts Digital Artistry is created using the MERN stack, you will need to install Node.js in your system to manage the project's backend and frontend dependencies.
 </br>
 **Prerequisites**
+</br>
 Ensure you have the following software installed on your machine:
 Node.js npm (Node Package Manager)
 MongoDB (Make sure MongoDB is running locally)
