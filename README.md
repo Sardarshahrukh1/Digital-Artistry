@@ -20,10 +20,12 @@ MongoDB (Make sure MongoDB is running locally)
 **Set Up frontend Folder:**
 </br>
 • Enter cd frontend in the terminal
+</br>
 • Run npm init to initialize the Frontend part in the project
 </br>
 **After these steps, you should have two initialized node projects, one for the Backend and one for the Frontend**
 </br>
 • Enter command in the Teminal npm run
+</br>
 • Open your web browser and navigate to 
 </br> **http://localhost:3000**
