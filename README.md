@@ -5,6 +5,7 @@ Social network and marketplace for artists and art enthusiasts Digital Artistry 
 **Prerequisites**
 </br>
 Ensure you have the following software installed on your machine:
+</br>
 Node.js npm (Node Package Manager)
 MongoDB (Make sure MongoDB is running locally)
 </br>
