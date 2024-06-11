@@ -13,7 +13,6 @@ MongoDB (Make sure MongoDB is running locally)
 • In Visual Studio Code, open the terminal
 </br>
 • Enter cd Backend in the terminal
-
 • Run npm init to initialize the backend part in the project
 </br>
 **Set Up frontend Folder:**
