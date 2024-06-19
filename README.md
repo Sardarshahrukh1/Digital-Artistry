@@ -1,3 +1,4 @@
+</br> 
 **DigitalArtistry:**
 </br>
 Social network and marketplace for artists and art enthusiasts Digital Artistry is created using the MERN stack, you will need to install Node.js in your system to manage the project's backend and frontend dependencies.
